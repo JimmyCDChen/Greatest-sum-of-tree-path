@@ -1,0 +1,18 @@
+
+Start at the top node (9) of the below triangle and move down via adjacent nodes of the below rows. Find the largest sum of nodes along any of those traversal paths. The largest sum for the given triangle is 21.
+
+       9
+
+     2   1
+
+    1  5  7
+
+  9  5  3  3
+
+Path being: 9 + 2 + 5 + 5 = 21.
+
+Find the same solution for the triangle in generated_triangle.txt
+
+The correct answer is 14584.
+
+make sure to cover this problem with unit tests and have it production quality.
